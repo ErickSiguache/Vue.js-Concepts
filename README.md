@@ -17,6 +17,10 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Creación de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Introduction/VueJS-Installation.md)
 * [Fundamentos de JavaScript](https://github.com/ErickSiguache/JavaScript-Concepts)
 
+### Fundamentos
+
+* [Estructura de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/00_The-Structure-Project.md)
+
 ### Proyectos
 
 
