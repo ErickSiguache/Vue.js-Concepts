@@ -4,7 +4,7 @@ Al momento de crear un proyecto en Vue.js, se generan varios archivos, cada uno 
 
 <center>
 
-!["Image of the structure of a vue project"](../Fundamentals/images/structure-of-a-vue-project.PNG)
+!["Image of the structure of a vue project"](../Fundamentals/Images/structure-of-a-vue-project.PNG)
 
 </center>
 
