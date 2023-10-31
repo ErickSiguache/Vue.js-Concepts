@@ -19,7 +19,10 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 
 ### Fundamentos
 
-* [Estructura de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/00_The-Structure-Project.md)
+* [Estructura de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/00-The-Structure-Project.md)
+* [Single File Components de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/01-Single-File-Components.vue)
+* [Interpolación de texto en Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/02-Text-Interpolation.vue)
+* [Directiva V-Bind](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/03-V-Bind.vue)
 
 ### Proyectos
 
