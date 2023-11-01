@@ -23,6 +23,10 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Single File Components de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/01-Single-File-Components.vue)
 * [Interpolación de texto en Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/02-Text-Interpolation.vue)
 * [Directiva V-Bind](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/03-V-Bind.vue)
+* [Directiva V-If y V-Else](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/04-V-If-And-V-Else.vue)
+* [Directiva V-Show](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/05-V-Show.vue)
+* [Directiva V-For](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/06-V-For.vue)
+* [Uso del Template](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/07-Template-Use.vue)
 
 ### Proyectos
 
