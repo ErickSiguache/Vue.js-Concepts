@@ -14,10 +14,10 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 
 * [Conceptos Generales](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Introduction/General-Language-Concepts.md)
 * [Instalación de Node.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Introduction/NodeJS-Installation.md)
-* [Creación de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Introduction/VueJS-Installation.md)
 * [Fundamentos de JavaScript](https://github.com/ErickSiguache/JavaScript-Concepts)
+* [Creación de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Introduction/VueJS-Installation.md)
 
-### Fundamentos
+### Fundamentos de Vue.js 3
 
 * [Estructura de un proyecto de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/00-The-Structure-Project.md)
 * [Single File Components de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/01-Single-File-Components.vue)
@@ -27,6 +27,15 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Directiva V-Show](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/05-V-Show.vue)
 * [Directiva V-For](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/06-V-For.vue)
 * [Uso del Template](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/07-Template-Use.vue)
+* [Directiva V-On:Click](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/08-V-On-Click.vue)
+* [Modificadores de eventos](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/09-Event-Modifiers.vue)
+* [Eventos de clic](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/10-Click-Events.vue)
+
+### Fundamentos de Vue.js
+
+* [Componentes]()
+* [Composition API]()
+* [Options API]()
 
 ### Proyectos
 
