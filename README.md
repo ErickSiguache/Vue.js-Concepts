@@ -30,6 +30,9 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Directiva V-On:Click](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/08-V-On-Click.vue)
 * [Modificadores de eventos](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/09-Event-Modifiers.vue)
 * [Eventos de clic](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/10-Click-Events.vue)
+* [Reactividad en Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/11-Reactive-Variables.vue)
+* [Propiedades Computadas ](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/12-Computed-Properties.vue)
+* [Directiva V-Bind:Disabled](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/13-Disabled.vue)
 
 ### Fundamentos de Vue.js
 
