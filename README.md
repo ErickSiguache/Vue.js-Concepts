@@ -33,6 +33,9 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Reactividad en Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/11-Reactive-Variables.vue)
 * [Propiedades Computadas ](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/12-Computed-Properties.vue)
 * [Directiva V-Bind:Disabled](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Fundamentals/13-Disabled.vue)
+* [Proyecto final de los fundamentos de Vue.js 3](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/Fundamentals/mini-counter-project)
+  * [Repositorio del Proyecto](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/Fundamentals/mini-counter-project)
+  * [URL del proyecto](https://counter-app-erick-siguache.netlify.app)
 
 ### Fundamentos de Vue.js
 
