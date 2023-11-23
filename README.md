@@ -44,6 +44,10 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Options API](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Basic/02_Option_API.md)
 * [Props usando Composition API](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Basic/03_Props.md)
 * [Uso de $emit y defineEmits](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Basic/04_%24emit_In_Vue.md)
+* [Proyecto final de los fundamentos de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/Basic/mini-pagination-project)
+  * [Repositorio del Proyecto](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/Basic/mini-pagination-project)
+  * [URL del proyecto](https://post-erick-siguache.netlify.app)
+
 
 ### Proyectos
 
