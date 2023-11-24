@@ -49,6 +49,11 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
   * [URL del proyecto](https://post-erick-siguache.netlify.app)
 
 
+### Vue Router
+
+* [Instalacion de Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/00-Vue-Router-Configuration.md)
+* [Estructura de un proyecto con Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/01-Structure-With-Vue-Router.md)
+
 ### Proyectos
 
 
