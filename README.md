@@ -53,6 +53,12 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 
 * [Instalacion de Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/00-Vue-Router-Configuration.md)
 * [Estructura de un proyecto con Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/01-Structure-With-Vue-Router.md)
+* [Gestión de rutas y vistas](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/02-Route-And-View-Management.md)
+* [Gestión de rutas y vistas desde los Scripts](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/03-Using-Routes-And-Views-In-Scripts.md)
+
+### Fetching de datos y reutilización
+
+
 
 ### Proyectos
 
