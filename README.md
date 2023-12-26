@@ -57,6 +57,9 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 * [Gestión de rutas y vistas desde los Scripts](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/03-Using-Routes-And-Views-In-Scripts.md)
 * [Uso de clases activas en Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/04-Vue-Active-Class.md)
 * [Redirecciones en producción al usar Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/VueRouter/05-Redirect-In-Deploy.md)
+* [Proyecto final del Uso de Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/VueRouter/rick-and-morty-api-project)
+  * [Repositorio del Proyecto](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/VueRouter/rick-and-morty-api-project)
+  * [URL del proyecto](https://rick-and-morty-erick-siguache.netlify.app)
 
 ### Fetching de datos y reutilización
 
