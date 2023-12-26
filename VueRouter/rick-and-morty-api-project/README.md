@@ -1,29 +1,25 @@
-# rick-and-morty-api-project
+# # Tercera práctica: Rick and Morty App
 
-This template should help get you started developing with Vue 3 in Vite.
+En la tercera práctica del curso de Vue.js, se abordan los conceptos fundamentales del enrutamiento mediante Vue Router. Esta práctica se centra en la gestión de rutas en una aplicación de SPA (Single Page Application), incluyendo redireccionamiento dentro de los componentes de la plantilla principal y la lógica asociada. Además, se explora cómo garantizar que estas funcionalidades operen sin errores en entornos de producción mediante `_redirect`.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Deploy en Netlify
 
-## Customize configuration
+Netlify es un servicio de alojamiento y plataforma de automatización para proyectos web. Permite a los desarrolladores alojar sitios web estáticos y aplicaciones web de una manera fácil y rápida.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+* [URL de la Aplicación](https://rick-and-morty-erick-siguache.netlify.app)
 
-## Project Setup
 
-```sh
-npm install
+## Configuración del proyecto
+
+Dentro de la carpeta, es necesario instalar todos los paquetes necesarios para el funcionamiento de Vue.js y sus dependencias mediante el siguiente comando:
+
+```cmd
+"Nombre del proyecto"> npm install
 ```
 
-### Compile and Hot-Reload for Development
+Después de completar la instalación de los paquetes, se puede ejecutar el proyecto mediante el siguiente comando:
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+```cmd
+"Nombre del proyecto"> npm run dev
 ```
