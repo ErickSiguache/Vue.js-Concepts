@@ -1,29 +1,23 @@
-# placeholder-axios-project
+# # Cuarta práctica: Placeholder with Axios App
 
-This template should help get you started developing with Vue 3 in Vite.
+En la cuarta práctica del curso de Vue.js, se abordan conceptos importantes, como la reutilización del código y el uso de librerías como `axios` para facilitar las llamadas a APIs en aplicaciones de Vue.js. Se explican métodos y técnicas utilizadas a diario en el desarrollo en Vue para la reutilización del código a través de `composables`.
 
-## Recommended IDE Setup
+### Deploy en Netlify
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Netlify es un servicio de alojamiento y plataforma de automatización para proyectos web. Permite a los desarrolladores alojar sitios web estáticos y aplicaciones web de una manera fácil y rápida.
 
-## Customize configuration
+* [URL de la Aplicación](https://placeholder-project.netlify.app)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Configuración del proyecto
 
-## Project Setup
+Dentro de la carpeta, es necesario instalar todos los paquetes necesarios para el funcionamiento de Vue.js y sus dependencias mediante el siguiente comando:
 
-```sh
-npm install
+```cmd
+"Nombre del proyecto"> npm install
 ```
 
-### Compile and Hot-Reload for Development
+Después de completar la instalación de los paquetes, se puede ejecutar el proyecto mediante el siguiente comando:
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+```cmd
+"Nombre del proyecto"> npm run dev
 ```
