@@ -65,6 +65,9 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 
 * [Axios en Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/AxiosAndComposables/00-Axios-In-Vue.md)
 * [Composables de Vue.js](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/AxiosAndComposables/01-composables.md)
+* [Proyecto final del Uso de Vue Router](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/AxiosAndComposables/placeholder-axios-project)
+  * [Repositorio del Proyecto](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/AxiosAndComposables/placeholder-axios-project)
+  * [URL del proyecto](https://placeholder-project.netlify.app)
 
 ### Proyectos
 
