@@ -69,6 +69,12 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
   * [Repositorio del Proyecto](https://github.com/ErickSiguache/Vue.js-Concepts/tree/main/AxiosAndComposables/placeholder-axios-project)
   * [URL del proyecto](https://placeholder-project.netlify.app)
 
+### Estado en Vue.js con Pinia
+
+* [Instalacion de Pinia](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/00-Pinia-Configuration.md)
+* [Estructura de un proyecto con Pinia](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/01-Structure-With-Pinia.md)
+
+
 ### Proyectos
 
 
