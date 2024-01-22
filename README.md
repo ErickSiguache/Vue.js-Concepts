@@ -73,6 +73,8 @@ El objetivo principal de este repositorio es funcionar como una valiosa herramie
 
 * [Instalacion de Pinia](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/00-Pinia-Configuration.md)
 * [Estructura de un proyecto con Pinia](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/01-Structure-With-Pinia.md)
+* [Definición de un Store](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/02-Creating-The-Store.md)
+* [Uso de un Store en los componentes](https://github.com/ErickSiguache/Vue.js-Concepts/blob/main/Pinia/03-Use-A-Store.md)
 
 
 ### Proyectos
